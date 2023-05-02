@@ -1,0 +1,119 @@
+@media screen and  (max-width:900px){
+    nav{
+        margin-left:10%;
+        margin-top: 5%;
+        
+        }
+        nav a{
+            padding: 20px;
+            }
+            .img{
+                width: 80%;
+                height: 200px;
+            }
+            .pic1{
+                width: 85%;
+                height: 600px;
+                }
+                .pic2{
+                width: 85%;
+                height: 300px;
+                margin-top: 5%;
+                }
+                .pic3{
+                width: 85%;
+                height: 300px;
+                
+                }
+
+                footer{
+                    font-size:small;
+                 flex-direction: column;
+
+                }
+                h4{
+                    margin-left:10%;
+                }
+                .foot{
+                    padding:5px;
+                }
+                .last{
+                    width: 90%;
+                    height: 800px;
+                    margin-top: 5%;
+                }
+                .firstpg{
+                    height: 600px;
+                    width: 94%;
+                }
+                .master{
+                    width:20%;
+                    height: 30px;
+                    margin-top:30px;
+                }
+}
+@media screen and (max-width:600px) {
+    nav{
+        margin-left:5%;
+        margin-top: 5%;
+        
+        }
+        nav a{
+            padding: 10px;
+            }
+            .images{
+                display: grid;
+                grid-template-columns:repeat(1,4fr) ;
+            }
+            .img{
+
+                width: 90%;
+                height: 250px;
+            }
+            .pics{
+                display: grid;
+                grid-template-columns: repeat(1,3fr);
+                }
+                
+            .pic1{
+                width: 100%;
+                height: 600px;
+                }
+                .pic2{
+                width: 100%;
+                height: 300px;
+                margin-top: 5%;
+                }
+                .pic3{
+                width: 100%;
+                height: 300px;
+                
+                }
+
+                footer{
+                    font-size:small;
+                 flex-direction: column;
+
+                }
+                h4{
+                    margin-left:10%;
+                }
+                .foot{
+                    padding:5px;
+                }
+                .last{
+                    width: 100%;
+                    height: 600px;
+                    margin-top: 5%;
+                }
+                .firstpg{
+                    height: 600px;
+                    width: 100%;
+                }
+                .master{
+                    width:20%;
+                    height: 30px;
+                    margin-top:30px;
+                }
+}
+    
