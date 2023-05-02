@@ -1,0 +1,224 @@
+
+body{
+    background-color: #f8f9fa;
+}
+nav{
+background-color:#f8f9fa;
+margin-left:30%;
+margin-top: 5%;
+
+}
+nav a{
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+text-decoration: none;
+padding: 30px;
+}
+.firstpg{
+    background-image: url("avif.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+.clothes{
+color: white;
+font-weight: bold;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left:15%;
+padding-top:10px;
+}
+.discover{
+    color:white ;
+    background-color: #faa2c1;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 50px;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left:15%;
+    margin-top: 20%;
+}
+.weekly{
+    text-align: center;
+    margin-top: 5%;
+}
+
+hr{
+    width: 30%;
+    margin-left: 30%;
+    height:1px;
+    color: black;
+}
+.tops{
+color: #343a40;
+font-size: x-large;
+margin-left: 20px;
+
+}
+.dresses{
+color:#343a40 ;
+font-size: x-large;
+}
+.week{
+    color:#868e96;
+}
+.images{
+    margin-top:5%;
+    display: grid;
+    grid-template-columns:repeat(4,1fr) ;
+}
+.img{
+    width: 80%;
+    height: 300px;
+}
+.scarlet{
+    color:#868e96 ;
+}
+.view{
+    border: none;
+    color:white ;
+    background-color: #faa2c1;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 40px;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left:40%;
+    margin-top:5%;
+}
+.pics{
+margin-top: 5%;
+display: grid;
+grid-template-columns: repeat(2,1fr);
+}
+
+.pic1{
+background-image: url("sport.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width: 90%;
+height: 750px;
+}
+.pic2{
+    background-image: url("heels.webp");
+    background-repeat: no-repeat;
+background-size: cover;
+width: 90%;
+height: 350px;
+margin-top: 5%;
+}
+.pic3{
+    background-image: url("shoes2.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+width: 90%;
+height: 350px;
+
+}
+.viewer{
+    border: none;
+    color:white ;
+    background-color: #faa2c1;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-size:large;
+    margin-left:15%;
+    margin-top:30%;
+    float: left;
+}
+.viewers{
+    border: none;
+    color:white ;
+    background-color: #faa2c1;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-size:large;
+    margin-left:15%;
+    margin-top:100%;
+    float: left; 
+}
+.arrival{
+    color:#343a40;
+    font-size: larger;
+}
+.shoes{
+    color: white;
+
+}
+.shoe{
+    color: #343a40;
+
+}
+.welcome{
+    text-align: center;
+    margin-top: 5%;
+}
+.we{
+    color:#343a40;
+    font-weight: bold;
+    font-size:large;
+}
+.shap{
+    font-size: larger;
+}
+.last{
+    background-image: url("vvv.avif");
+    background-size: cover;
+    background-repeat: repeat;
+    width: 100%;
+    height: 800px;
+    margin-top: 5%;
+}
+.icon{
+    color:#faa2c1 ; 
+}
+    
+.ion{
+    border: none;
+    border-radius: 100px;
+    padding: 20px;
+    background-color: white;
+    margin-top: 40%;
+    margin-left: 50%;
+
+}
+.sub{
+    border: none;
+    color:white ;
+    background-color: #faa2c1;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-size:large;
+    margin-top: 20px;
+    
+}
+ul li{
+    list-style: none;
+}
+.master{
+    width:20%;
+    height: 30px;
+    margin-top:30px;
+}
+.email{
+    padding: 10px 30px;
+    margin-top:30px ;
+}
+footer{
+    display: flex;
+    color: #868e96;
+    font-weight: bold;
+    font-size: medium;
+}
+h4{
+    margin-left:15%;
+    color: #343a40;
+}
+.foot{
+    padding: 30px;
+}
